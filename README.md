@@ -1,1 +1,1 @@
-# AMST-_master
+# AMST$^2$-_master
