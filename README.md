@@ -1,3 +1,3 @@
-# $$AMST^2$$ㅁ_master
+# $$AMST^2$$-master
 
 \text{AMST$^2$}_master
